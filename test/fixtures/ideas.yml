@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: 1
+  post_date: 2013-10-27
+  title: MyString
+  description: MyText
+  price: 1.5
+  type: 
+  size: MyString
+
+two:
+  user_id: 1
+  post_date: 2013-10-27
+  title: MyString
+  description: MyText
+  price: 1.5
+  type: 
+  size: MyString
